@@ -1,0 +1,17 @@
+{
+  "name": "votabot",
+  "version": "1.0.0",
+  "description": "A discord bot that create interactive polls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Zheoni",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "nedb": "^1.8.0",
+    "string-hash": "^1.1.3"
+  }
+}
